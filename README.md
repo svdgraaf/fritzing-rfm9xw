@@ -13,3 +13,7 @@ This board should be compatible with the RFM95W, RFM96W and RFM97W (according to
 5. Import
 6. ...
 7. Profit!
+
+## Example
+![RFM95W](https://raw.githubusercontent.com/svdgraaf/fritzing-rfm9xw/master/rfm9xw.png)
+
