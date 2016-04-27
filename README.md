@@ -1,8 +1,8 @@
-# RFM9xW part for Fritzing
-I needed this part for a board I was developing, and couldn't find the part.
+# Fritzing part for the RFM9xW family
+I needed this part for a board I was developing, and couldn't find the part, so here we are.
 
 ## Compatibility
-This board should also be compatible with the RFM96W and RFM97W (according to the specs)
+This board should be compatible with the RFM95W, RFM96W and RFM97W (according to the specs).
 
 ## Usage
 1. Download the part as [zipfile](https://github.com/svdgraaf/fritzing-rfm9xw/archive/master.zip)
