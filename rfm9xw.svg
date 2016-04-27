@@ -2,16 +2,17 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" width="51.02px" height="45.35px" viewBox="0 0 51.02 45.35" xml:space="preserve">
-<g id="pcb" display="none">
-	<g id="silkscreen" display="inline">
-		<path d="M46.772,1.414v42.519H4.253V1.414H46.772 M48.189-0.004H2.836V45.35h45.354V-0.004L48.189-0.004z"/>
-
-			<rect x="12.473" y="10.205" fill="none" stroke="#000000" stroke-width="1.4173" stroke-miterlimit="10" width="16.441" height="16.724"/>
-
-			<rect x="33.732" y="3.401" fill="none" stroke="#000000" stroke-width="1.4173" stroke-miterlimit="10" width="7.087" height="9.354"/>
+<g id="pcb">
+	<g id="Outline">
+		
+			<rect x="12.473" y="10.205" fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" width="16.441" height="16.724"/>
+		
+			<rect x="33.732" y="3.401" fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" width="7.087" height="9.354"/>
 		<text transform="matrix(1 0 0 1 16.7246 20.6929)" font-family="'OCRAStd'" font-size="5.6693">IC</text>
+		
+			<rect x="3.118" y="1.134" fill="none" stroke="#000000" stroke-width="0.7087" stroke-miterlimit="10" width="45.069" height="43.087"/>
 	</g>
-	<g id="copper0" display="inline">
+	<g id="copper0">
 		<rect id="connector1pad" y="1.438" fill="#F5BD18" width="5.669" height="2.834"/>
 		<rect id="connector2pad" x="0.002" y="7.107" fill="#F5BD18" width="5.67" height="2.834"/>
 		<rect id="connector3pad" x="0.001" y="12.776" fill="#F5BD18" width="5.67" height="2.834"/>
@@ -30,50 +31,6 @@
 		<rect id="connector16pad" x="45.35" y="41.058" fill="#F5BD18" width="5.67" height="2.836"/>
 	</g>
 </g>
-<g id="schematic">
-
-		<rect x="8.714" y="2.963" fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="10" width="33.877" height="39.43"/>
-	<text transform="matrix(-4.371139e-08 -1 1 -4.371139e-08 28.0635 34.8662)" font-family="'OCRAStd'" font-size="5.8989">RFM9xW</text>
-	<line fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="10" x1="3.401" y1="5.669" x2="8.714" y2="5.669"/>
-	<line fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="10" x1="3.402" y1="10.517" x2="8.714" y2="10.517"/>
-	<line fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="10" x1="3.401" y1="15.365" x2="8.713" y2="15.365"/>
-	<line fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="10" x1="3.401" y1="20.212" x2="8.713" y2="20.212"/>
-	<line fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="10" x1="3.402" y1="25.06" x2="8.714" y2="25.06"/>
-	<line fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="10" x1="3.401" y1="29.908" x2="8.713" y2="29.908"/>
-	<line fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="10" x1="3.401" y1="34.755" x2="8.712" y2="34.755"/>
-	<line fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="10" x1="3.401" y1="39.604" x2="8.712" y2="39.604"/>
-	<line fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="10" x1="42.52" y1="5.751" x2="47.831" y2="5.751"/>
-
-		<line fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="10" x1="42.521" y1="10.599" x2="47.831" y2="10.599"/>
-
-		<line fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="10" x1="42.52" y1="15.447" x2="47.831" y2="15.447"/>
-
-		<line fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="10" x1="42.52" y1="20.294" x2="47.831" y2="20.294"/>
-
-		<line fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="10" x1="42.521" y1="25.141" x2="47.831" y2="25.141"/>
-
-		<line fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="10" x1="42.52" y1="29.989" x2="47.831" y2="29.989"/>
-
-		<line fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="10" x1="42.52" y1="34.836" x2="47.831" y2="34.836"/>
-
-		<line fill="none" stroke="#000000" stroke-width="0.2835" stroke-miterlimit="10" x1="42.52" y1="39.685" x2="47.831" y2="39.685"/>
-	<text transform="matrix(1 0 0 1 9.9214 6.8032)" font-family="'OCRAStd'" font-size="3">gnd</text>
-	<text transform="matrix(1 0 0 1 10.2046 11.3389)" font-family="'OCRAStd'" font-size="3">miso</text>
-	<text transform="matrix(1 0 0 1 10.2046 16.1577)" font-family="'OCRAStd'" font-size="3">mosi</text>
-	<text transform="matrix(1 0 0 1 9.9214 20.4092)" font-family="'OCRAStd'" font-size="3">sck</text>
-	<text transform="matrix(1 0 0 1 9.9214 25.2285)" font-family="'OCRAStd'" font-size="3">nss</text>
-	<text transform="matrix(1 0 0 1 9.9214 30.0469)" font-family="'OCRAStd'" font-size="3">reset</text>
-	<text transform="matrix(1 0 0 1 9.9214 35.1494)" font-family="'OCRAStd'" font-size="3">dio5</text>
-	<text transform="matrix(1 0 0 1 10.2046 39.9688)" font-family="'OCRAStd'" font-size="3">gnd</text>
-	<text transform="matrix(1 0 0 1 32.7461 6.8032)" font-family="'OCRAStd'" font-size="3">dio2</text>
-	<text transform="matrix(1 0 0 1 33.0293 11.3389)" font-family="'OCRAStd'" font-size="3">dio1</text>
-	<text transform="matrix(1 0 0 1 33.0293 16.1577)" font-family="'OCRAStd'" font-size="3">dio0</text>
-	<text transform="matrix(1 0 0 1 34.9053 20.4092)" font-family="'OCRAStd'" font-size="3">3v3</text>
-	<text transform="matrix(1 0 0 1 32.7461 25.2285)" font-family="'OCRAStd'" font-size="3">dio4</text>
-	<text transform="matrix(1 0 0 1 32.7461 30.0469)" font-family="'OCRAStd'" font-size="3">dio3</text>
-	<text transform="matrix(1 0 0 1 34.9053 35.1494)" font-family="'OCRAStd'" font-size="3">gnd</text>
-	<text transform="matrix(1 0 0 1 35.1885 39.9688)" font-family="'OCRAStd'" font-size="3">ant</text>
-</g>
 <g id="breadboard" display="none">
 	<g id="Layer_7" display="inline">
 		<rect id="Board" x="2.853" fill="#217B3D" width="45.354" height="45.354"/>
@@ -82,23 +39,23 @@
 		<rect x="28.63" y="35.149" width="3.401" height="5.67"/>
 		<rect x="34.866" y="28.63" width="6.52" height="4.252"/>
 	</g>
-	<g id="Copper_2_" display="inline">
-		<circle fill="#9A916C" cx="4.252" cy="2.835" r="1.417"/>
-		<circle fill="#9A916C" cx="4.252" cy="8.503" r="1.417"/>
-		<circle fill="#9A916C" cx="4.252" cy="14.173" r="1.417"/>
-		<circle fill="#9A916C" cx="4.252" cy="19.842" r="1.418"/>
-		<circle fill="#9A916C" cx="4.252" cy="25.513" r="1.417"/>
-		<circle fill="#9A916C" cx="4.252" cy="31.182" r="1.418"/>
-		<circle fill="#9A916C" cx="4.252" cy="36.852" r="1.418"/>
-		<circle fill="#9A916C" cx="4.252" cy="42.52" r="1.418"/>
-		<circle fill="#9A916C" cx="46.771" cy="2.834" r="1.418"/>
-		<circle fill="#9A916C" cx="46.771" cy="8.503" r="1.418"/>
-		<circle fill="#9A916C" cx="46.771" cy="14.173" r="1.418"/>
-		<circle fill="#9A916C" cx="46.771" cy="19.841" r="1.418"/>
-		<circle fill="#9A916C" cx="46.771" cy="25.512" r="1.418"/>
-		<circle fill="#9A916C" cx="46.771" cy="31.182" r="1.418"/>
-		<circle fill="#9A916C" cx="46.771" cy="36.852" r="1.418"/>
-		<circle fill="#9A916C" cx="46.771" cy="42.52" r="1.418"/>
+	<g id="Copper_2_">
+		<circle display="inline" fill="#9A916C" cx="4.252" cy="2.835" r="1.417"/>
+		<circle display="inline" fill="#9A916C" cx="4.252" cy="8.503" r="1.417"/>
+		<circle display="inline" fill="#9A916C" cx="4.252" cy="14.173" r="1.417"/>
+		<circle display="inline" fill="#9A916C" cx="4.252" cy="19.842" r="1.418"/>
+		<circle display="inline" fill="#9A916C" cx="4.252" cy="25.513" r="1.417"/>
+		<circle display="inline" fill="#9A916C" cx="4.252" cy="31.182" r="1.418"/>
+		<circle display="inline" fill="#9A916C" cx="4.252" cy="36.852" r="1.418"/>
+		<circle display="inline" fill="#9A916C" cx="4.252" cy="42.52" r="1.418"/>
+		<circle display="inline" fill="#9A916C" cx="46.771" cy="2.834" r="1.418"/>
+		<circle display="inline" fill="#9A916C" cx="46.771" cy="8.503" r="1.418"/>
+		<circle display="inline" fill="#9A916C" cx="46.771" cy="14.173" r="1.418"/>
+		<circle display="inline" fill="#9A916C" cx="46.771" cy="19.841" r="1.418"/>
+		<circle display="inline" fill="#9A916C" cx="46.771" cy="25.512" r="1.418"/>
+		<circle display="inline" fill="#9A916C" cx="46.771" cy="31.182" r="1.418"/>
+		<circle display="inline" fill="#9A916C" cx="46.771" cy="36.852" r="1.418"/>
+		<circle display="inline" fill="#9A916C" cx="46.771" cy="42.52" r="1.418"/>
 	</g>
 </g>
 </svg>
