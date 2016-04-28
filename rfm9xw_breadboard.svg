@@ -2,27 +2,68 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.2" baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" width="51.02px" height="45.35px" viewBox="0 0 51.02 45.35" xml:space="preserve">
+
 <g id="breadboard">
-	<rect id="Board" x="2.853" fill="#217B3D" width="45.354" height="45.354"/>
-	<rect x="12.756" y="8.504" width="16.441" height="16.725"/>
-	<rect x="34.016" y="1.701" fill="#59595A" width="7.087" height="9.354"/>
-	<rect x="28.63" y="35.149" width="3.401" height="5.67"/>
-	<rect x="34.866" y="28.63" width="6.52" height="4.252"/>
-	<circle fill="#9A916C" cx="4.252" cy="2.835" r="1.417"/>
-	<circle fill="#9A916C" cx="4.252" cy="8.503" r="1.417"/>
-	<circle fill="#9A916C" cx="4.252" cy="14.173" r="1.417"/>
-	<circle fill="#9A916C" cx="4.252" cy="19.842" r="1.418"/>
-	<circle fill="#9A916C" cx="4.252" cy="25.513" r="1.417"/>
-	<circle fill="#9A916C" cx="4.252" cy="31.182" r="1.418"/>
-	<circle fill="#9A916C" cx="4.252" cy="36.852" r="1.418"/>
-	<circle fill="#9A916C" cx="4.252" cy="42.52" r="1.418"/>
-	<circle fill="#9A916C" cx="46.771" cy="2.834" r="1.418"/>
-	<circle fill="#9A916C" cx="46.771" cy="8.503" r="1.418"/>
-	<circle fill="#9A916C" cx="46.771" cy="14.173" r="1.418"/>
-	<circle fill="#9A916C" cx="46.771" cy="19.841" r="1.418"/>
-	<circle fill="#9A916C" cx="46.771" cy="25.512" r="1.418"/>
-	<circle fill="#9A916C" cx="46.771" cy="31.182" r="1.418"/>
-	<circle fill="#9A916C" cx="46.771" cy="36.852" r="1.418"/>
-	<circle fill="#9A916C" cx="46.771" cy="42.52" r="1.418"/>
+	<g id="Layer_7">
+		<g id="Board">
+			<rect x="2.853" fill="#217B3D" width="45.354" height="45.354"/>
+		</g>
+		<rect x="12.756" y="8.504" width="16.441" height="16.725"/>
+		<rect x="34.016" y="1.701" fill="#59595A" width="7.087" height="9.354"/>
+		<rect x="28.63" y="35.149" width="3.401" height="5.67"/>
+		<rect x="34.866" y="28.63" width="6.52" height="4.252"/>
+	</g>
+	<g id="Copper_2_">
+		<circle fill="#9A916C" cx="4.252" cy="2.835" r="1.417"/>
+		<circle fill="#9A916C" cx="4.252" cy="8.503" r="1.417"/>
+		<circle fill="#9A916C" cx="4.252" cy="14.173" r="1.417"/>
+		<circle fill="#9A916C" cx="4.252" cy="19.842" r="1.418"/>
+		<circle fill="#9A916C" cx="4.252" cy="25.513" r="1.417"/>
+		<circle fill="#9A916C" cx="4.252" cy="31.182" r="1.418"/>
+		<circle fill="#9A916C" cx="4.252" cy="36.852" r="1.418"/>
+		<circle fill="#9A916C" cx="4.252" cy="42.52" r="1.418"/>
+		<circle fill="#9A916C" cx="46.771" cy="2.834" r="1.418"/>
+		<circle fill="#9A916C" cx="46.771" cy="8.503" r="1.418"/>
+		<circle fill="#9A916C" cx="46.771" cy="14.173" r="1.418"/>
+		<circle fill="#9A916C" cx="46.771" cy="19.841" r="1.418"/>
+		<circle fill="#9A916C" cx="46.771" cy="25.512" r="1.418"/>
+		<circle fill="#9A916C" cx="46.771" cy="31.182" r="1.418"/>
+		<circle fill="#9A916C" cx="46.771" cy="36.852" r="1.418"/>
+		<circle fill="#9A916C" cx="46.771" cy="42.52" r="1.418"/>
+
+			<ellipse id="connector5pad_1_" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" cx="4.31" cy="2.76" rx="2.835" ry="2.76"/>
+
+			<ellipse id="connector5pad_3_" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" cx="4.252" cy="8.712" rx="2.835" ry="2.76"/>
+
+			<ellipse id="connector5pad_4_" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" cx="4.252" cy="14.382" rx="2.835" ry="2.76"/>
+
+			<ellipse id="connector5pad_5_" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" cx="4.252" cy="19.917" rx="2.835" ry="2.76"/>
+
+			<ellipse id="connector5pad_6_" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" cx="4.252" cy="25.438" rx="2.835" ry="2.76"/>
+
+			<ellipse id="connector5pad_7_" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" cx="4.252" cy="31.256" rx="2.835" ry="2.76"/>
+
+			<ellipse id="connector5pad_8_" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" cx="4.252" cy="37.059" rx="2.835" ry="2.76"/>
+
+			<ellipse id="connector5pad_9_" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" cx="4.21" cy="42.59" rx="2.835" ry="2.76"/>
+
+			<ellipse id="connector5pad_17_" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" cx="46.905" cy="2.76" rx="2.835" ry="2.76"/>
+
+			<ellipse id="connector5pad_16_" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" cx="46.848" cy="8.712" rx="2.834" ry="2.76"/>
+
+			<ellipse id="connector5pad_15_" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" cx="46.848" cy="14.382" rx="2.834" ry="2.76"/>
+		<path id="connector5pad_14_" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" d="M49.682,19.917
+			c0-1.521-1.268-2.76-2.836-2.76c-1.564,0-2.833,1.238-2.833,2.76s1.269,2.76,2.833,2.76
+			C48.414,22.677,49.682,21.439,49.682,19.917z"/>
+
+			<ellipse id="connector5pad_13_" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" cx="46.848" cy="25.438" rx="2.834" ry="2.76"/>
+		<path id="connector5pad_12_" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" d="M49.682,31.256
+			c0-1.521-1.268-2.76-2.836-2.76c-1.564,0-2.833,1.238-2.833,2.76s1.269,2.76,2.833,2.76
+			C48.414,34.016,49.682,32.777,49.682,31.256z"/>
+
+			<ellipse id="connector5pad_11_" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" cx="46.848" cy="37.059" rx="2.834" ry="2.76"/>
+
+			<ellipse id="connector5pad_10_" fill="#FFFFFF" stroke="#EBC96C" stroke-miterlimit="10" cx="46.806" cy="42.59" rx="2.835" ry="2.76"/>
+	</g>
 </g>
 </svg>
